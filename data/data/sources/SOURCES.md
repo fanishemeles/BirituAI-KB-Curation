@@ -1,0 +1,16 @@
+# Sources
+- **Source Name**: Cooperative Bank of Oromia Website
+  - **URL**: www.coopbankoromia.com.et
+  - **Date Accessed**: 2025-06-17
+  - **Content**: Microfinance savings (25 ETB, 6% interest)
+  - **Language**: English, Tigrigna, Somali
+- **Source Name**: Shabelle Bank Website
+  - **URL**: www.shabellebank.com
+  - **Date Accessed**: 2025-06-17
+  - **Content**: Microloans (500–5,000 ETB, 6–12 months repayment)
+  - **Language**: English, Tigrigna, Somali
+- **Source Name**: Ethiotelecom Website
+  - **URL**: www.ethiotelecom.et
+  - **Date Accessed**: 2025-06-17
+  - **Content**: Mobile money (Telebirr services)
+  - **Language**: English, Tigrigna, Somali
